@@ -3,8 +3,7 @@
 
 // L’estompement progressif est une animation où tout ce qui est dessiné dans la fenêtre disparait progressivement à chaque mise à jour de l’affichage pour finalement converger vers la couleur d’arrière-plan de la scène.
 
-// Cet effet visuel est plutôt facile à réaliser et fait en sorte que le contenu
-// de la fenêtre d'affichage change ou disparait progressivement au fil du temps.
+// Cet effet visuel est plutôt facile à réaliser et fait en sorte que le contenu de la fenêtre d'affichage change ou disparait progressivement au fil du temps.
 
 // L'astuce est de ne pas effacer le contenu de la fenêtre d'affichage à chaque frame au début de la fonction draw
 // et de plutôt dessiner un rectangle semi-transparent par-dessus tout le contenu de la fenêtre comme dernière étape de la fonction.
