@@ -29,7 +29,7 @@ int count;
 void setup()
 {
   // initialiser les états de Processing
-  size(512, 512);
+  size(100, 100);
   noStroke();
   rectMode(CENTER);
   textAlign(CENTER, CENTER);
