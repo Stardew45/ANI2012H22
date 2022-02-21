@@ -25,7 +25,7 @@ float centerY;
 PFont typo;
 
 // le '\n' dans l'instruction suivante est une séquence d'échappement qui permet d'insérer un saut de ligne dans une chaîne de caractères
-String textInfo = "appuyer sur des touches du clavier\n(flèches, WSAD, espace)";
+String textInfo = "appuyer sur des\n touches du clavier\n(flèches, WSAD, espace)";
 
 String textKeySpace = "ESPACE";
 
